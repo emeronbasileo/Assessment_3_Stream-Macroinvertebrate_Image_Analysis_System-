@@ -1,0 +1,34 @@
+Stream Macroinvertebrate Dataset - Summary Statistics
+========================================================
+
+Total images:  2665
+Total classes: 17
+
+Image dimensions:
+  Width  - min: 274, max: 600, mean: 599.3
+  Height - min: 274, max: 600, mean: 390.0
+  Channels: all 3-channel
+
+Class distribution:
+  Largest:  Gammarus sp            987 images
+  Smallest: Leptophlebiidae sp     9 images
+  Imbalance ratio: 109.7x
+
+Per-class counts (descending):
+  Gammarus sp                987
+  Simuliidae sp              374
+  Asellus sp                 294
+  Sericostomatidae sp        151
+  Oligochaeta sp             134
+  Sphaerium sp               127
+  Baetidae sp                109
+  Erpobdella sp              107
+  Nemoura sp                 106
+  Hydropsychidae sp           69
+  Ephemerellidae              68
+  Elmis sp                    45
+  Lymnea sp                   33
+  Leuctra sp                  19
+  Sialis sp                   19
+  Limnius sp                  14
+  Leptophlebiidae sp           9
